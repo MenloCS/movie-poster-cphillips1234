@@ -89,20 +89,20 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:** Make an image of a pickup truck coming toward the viewer running away from a tornado in a midwestern open setting with some variations such as trees or flowers with all grey coloring tinted blue and green. Make the weather rainy.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** The setting looks good
+- **What didn't work:** The druck is driving to the side.
+- **What I'll change for next attempt:** I will make the truck drive at me
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:** Make an image of a pickup truck coming toward the screen running away from a tornado in a midwestern open setting with some variations such as trees or flowers with all grey coloring tinted blue and green. Make the weather rainy.
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:** The scene is good
+- **What didn't work:** There is no title
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+/Users/cooper/Downloads/Gemini_Generated_Image_uebn06uebn06uebn.png
 ---
 
 ## Step 4: Photoshop Modifications
