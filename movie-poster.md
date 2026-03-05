@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:** Make an image of a truck running away from a tornado in a midwestern open setting with all grey coloring tinted blue and green.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** the setting is good.
+- **What didn't work:** Wrong kind of truck
+- **What I'll change for next attempt:** The truck
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:** Make an image of a pickup truck coming toward the viewer running away from a tornado in a midwestern open setting with all grey coloring tinted blue and green.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** The truck looks good
+- **What didn't work:** No rain
+- **What I'll change for next attempt:** Add rain
 
 ---
 
