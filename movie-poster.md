@@ -30,30 +30,30 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:** Twister
+- **Why I chose this movie:** I liked it
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:** Anticipation
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:** Tornado
+- **Why this element:**  This is the main part of the movie
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:** Buildings
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):** Grey
+- **Accent color(s):** Blue/Green
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright) Muted
 
 **Composition:**  
-- [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
+- [ ] Close-up (face/detail) Pickup
+- [X] Wide shot (landscape/setting)
 - [ ] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
